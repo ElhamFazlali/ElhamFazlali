@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ElhamFazlali
+- 👀 I’m interested in Artificial intelligence
+- 🌱 I’m currently learning python
+- 📫 How to reach me with telegram(@elhamfazlali) linkdin(elham fazlali)
